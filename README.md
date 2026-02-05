@@ -37,3 +37,20 @@ The goal of this project is to showcase practical data analytics skills using mu
 ---
 
 ## 📂 Project Structure  
+Cafe-Sales-Project/
+│
+├── data/
+│ └── cafe_sales.csv
+│
+├── excel/
+│ └── cafe_sales_analysis.xlsx
+│
+├── sql/
+│ └── cafe_sales_queries.sql
+│
+├── python/
+│ └── cafe_sales_analysis.ipynb
+│
+└── README.md
+
+# Made By Muhammad Awad
