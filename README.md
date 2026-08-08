@@ -53,4 +53,8 @@ Cafe-Sales-Project/
 │
 └── README.md
 
-# Made By Muhammad Awad
+## 👨‍💻 Author
+
+<h1 align="center">
+  🍁 Made by <span style="color: #FF0055;">M</span><span style="color: #00E5FF;">A</span> 🍁
+</h1>
